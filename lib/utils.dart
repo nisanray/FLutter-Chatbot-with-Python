@@ -1,0 +1,1 @@
+const String chatBotLogo= 'assets/icons/icon4.png';
